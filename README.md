@@ -198,13 +198,13 @@ YouTube-GDD/
       <th colspan="2" aligin="center">Person</th>
    </tr>
    <tr>
-      <th align="center">AP50</th>
+      <th align="center">AP<sub>50</sub></th>
       <th align="center">AP</th>
-      <th align="center">AP50</th>
+      <th align="center">AP<sub>50</sub></th>
       <th align="center">AP</th>
    </tr>
 <tr>
-        <th rowspan="4" valign="center">YOLOv5</th>
+        <th rowspan="4" valign="center"><a href=https://github.com/ultralytics/yolov5/blob/master/models/yolov5s.yaml>YOLOv5s</a></th>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center">15.80G</td>
