@@ -19,7 +19,7 @@ To promote the development of security, this work presents a new challenging dat
 
 2. All annotations are labeled in [YOLO](https://roboflow.com/formats/yolo-darknet-txt) format with [labelImg](https://github.com/tzutalin/labelImg).
 
-3. YouTube-GDD contains two categories, namely **"person"** and **"gun"**, corresponding to category ids **0** and **1**,respectively.
+3. YouTube-GDD contains two categories, namely **"person"** and **"gun"**, corresponding to category ids **0** and **1**, respectively.
 
 4. The name format of each image file and the corresponding label file is set as **"YouTube id_original frame rate_split frame rate_ID"**.
 
@@ -156,6 +156,8 @@ Firstly, we split the entire dataset into 10 nonoverlapping folds by [filename](
 **Table Note:** Frames captured from the same video may be assigned into two adjacent folds, causing the video to be repeatedly counted.
 
 ## Construct YouTube-GDD from Source Videos
+**[Update 18th April 2021]** We thank [a2515919](https://github.com/a2515919) who is also working on the dataset and willing to share the pre-processed images: [Google Drive Link](https://drive.google.com/file/d/1TH6kSx7WoFRrUPbxcDGYBrFrYUI1ReWa/view).
+
 Here, three scripts are provided for constructing YouTube-GDD from source videos step by step.
 
 + Download videos.
@@ -263,4 +265,4 @@ If you find our work inspiring or use our dataset in your research, please cite 
 ```
 
 ## Thanks
-We thank Lab students, namely Jingyang Shan, Qianlei Wang, Siqi Zhang, Xu Liao, Yuncong Peng, Gang Luo, Xin Lan, Boyi Fu, Yangge Qian, for their suggestions about improving the YouTube-GDD dataset.
+We thank Lab students, namely Jingyang Shan, Qianlei Wang, Siqi Zhang, Xu Liao, Yuncong Peng, Gang Luo, Xin Lan, Boyi Fu and Yangge Qian, for their suggestions about improving the YouTube-GDD dataset.
