@@ -265,4 +265,4 @@ If you find our work inspiring or use our dataset in your research, please cite 
 ```
 
 ## Thanks
-We thank Lab students, namely Jingyang Shan, Qianlei Wang, Siqi Zhang, Xu Liao, Yuncong Peng, Gang Luo, Xin Lan, Boyi Fu and Yangge Qian, for their suggestions about improving the YouTube-GDD dataset.
+We thank Lab students, namely Mingfei Li, Jingyang Shan, Qianlei Wang, Siqi Zhang, Xu Liao, Yuncong Peng, Gang Luo, Xin Lan, Boyi Fu and Yangge Qian, for their suggestions about improving the YouTube-GDD dataset.
