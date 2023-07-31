@@ -258,7 +258,7 @@ If you find our work inspiring or use our dataset in your research, please cite 
 ```
 @article{gu2022youtube-gdd,
   title={YouTube-GDD: A challenging gun detection dataset with rich contextual information},
-  author={Gu Yongxiang and Li Mingfei and Liao Xingbin and Qin Xiaolin},
+  author={Gu Yongxiang and Liao Xingbin and Qin Xiaolin},
   journal={arXiv preprint arXiv:2203.04129},
   year={2022}
 }
