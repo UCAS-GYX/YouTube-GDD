@@ -158,6 +158,35 @@ Firstly, we split the entire dataset into 10 nonoverlapping folds by [filename](
 **Table Note:** Frames captured from the same video may be assigned into two adjacent folds, causing the video to be repeatedly counted.
 
 ## Construct YouTube-GDD from Source Videos
+
+### Setup
+
+* Prerequisites
+  
+```
+sudo apt-get install ffmpeg
+```
+
+* Create and activate a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+* Pip install:
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+
+### Download + construct Youtube-GDD
+
 **[Update 18th April]** We thank [a2515919](https://github.com/a2515919) who is also working on the dataset and willing to share the pre-processed images: [Google Drive Link](https://drive.google.com/file/d/1TH6kSx7WoFRrUPbxcDGYBrFrYUI1ReWa/view).
 
 Here, three scripts are provided for constructing YouTube-GDD from source videos step by step.
