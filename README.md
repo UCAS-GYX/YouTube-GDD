@@ -1,3 +1,5 @@
+⚠️⚠️⚠️ Many youtube links are dead. Download the google drive link instead (mentioned below) ⚠️⚠️⚠️
+
 # YouTube-GDD: A challenging gun detection dataset with rich contextual information [[arXiv]](https://arxiv.org/pdf/2203.04129.pdf) [[Project Page]](https://www.researchgate.net/project/YouTube-GDD)
 
 ## Overview
